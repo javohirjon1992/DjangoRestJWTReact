@@ -1,1 +1,1 @@
-# html_tutorial
+# DjangoRestJWTReact
